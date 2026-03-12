@@ -1,0 +1,41 @@
+{
+  "sitePlan": "./siteplan.jpg",
+  "hotspots": [
+    {
+      "id": "wpiyo2ck8",
+      "name": "1",
+      "x": 39.94562338900462,
+      "y": 48.431811817418094,
+      "imageData": "./1.jpg",
+      "type": "image",
+      "links": []
+    },
+    {
+      "id": "54u69kzwo",
+      "name": "2",
+      "x": 47.85494862469545,
+      "y": 48.431811817418094,
+      "imageData": "./2.jpg",
+      "type": "image",
+      "links": []
+    },
+    {
+      "id": "z5122wx63",
+      "name": "3",
+      "x": 54.6343702552876,
+      "y": 61.87342481097732,
+      "imageData": "./3.jpg",
+      "type": "image",
+      "links": []
+    },
+    {
+      "id": "6tkjmp0qt",
+      "name": "4",
+      "x": 57.79810034956393,
+      "y": 90.1008120974517,
+      "imageData": "./4.jpg",
+      "type": "image",
+      "links": []
+    }
+  ]
+}
